@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.kui92:FFmpegLibrary-3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/27b9f8cba056805bf5a9f8206a6221e7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/27b9f8cba056805bf5a9f8206a6221e7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
