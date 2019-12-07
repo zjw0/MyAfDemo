@@ -8,7 +8,6 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,7 +17,6 @@ import com.anthonycr.grant.PermissionsManager;
 import com.anthonycr.grant.PermissionsResultAction;
 import com.lzy.okgo.OkGo;
 
-import butterknife.ButterKnife;
 import cn.appoa.aframework.activity.AfActivity;
 import cn.appoa.aframework.dialog.DefaultLoadingDialog;
 import cn.appoa.aframework.presenter.BasePresenter;
@@ -370,12 +368,11 @@ public abstract class AfFragment<P extends BasePresenter> extends Fragment imple
     public void bindButterKnife(View view) {
         // 绑定注解
         //ButterKnife.bind(this, view);
-        ButterKnife.bind(mActivity, view);
     }
 
     public void unBindButterKnife() {
         // 解绑注解
         // ButterKnife.unbind(this);
-        ButterKnife.bind(mActivity).unbind();
+//        ButterKnife.bind(mActivity).unbind();
     }
 }
