@@ -127,7 +127,9 @@
     <orderEntry type="library" name="com.android.support:support-core-ui-26.1.0" level="project" />
     <orderEntry type="library" name="com.squareup.okio:okio:1.13.0@jar" level="project" />
     <orderEntry type="library" name="__local_aars__:D.\MyAndroidSpace\studio-demo\MyAfWork\AFramework\libs\com.mcxiaoke.volley-library-1.0.19.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="com.jakewharton:butterknife-8.8.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-compat-26.1.0" level="project" />
+    <orderEntry type="library" name="com.jakewharton:butterknife-annotations:8.8.1@jar" level="project" />
     <orderEntry type="library" name="__local_aars__:D.\MyAndroidSpace\studio-demo\MyAfWork\AFramework\libs\grant-permissions-1.1.2.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="__local_aars__:D.\MyAndroidSpace\studio-demo\MyAfWork\AFramework\libs\org.apache.http.legacy.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="android.arch.core:common:1.0.0@jar" level="project" />

@@ -25,6 +25,7 @@ import com.anthonycr.grant.PermissionsResultAction;
 import com.lzy.okgo.OkGo;
 import com.megabox.android.slide.SlideBackActivity;
 
+import butterknife.ButterKnife;
 import cn.appoa.aframework.R;
 import cn.appoa.aframework.dialog.DefaultLoadingDialog;
 import cn.appoa.aframework.manager.Foreground;
@@ -392,12 +393,13 @@ public abstract class AfActivity<P extends BasePresenter> extends SlideBackActiv
 
     public void bindButterKnife() {
         // 绑定注解
-        // ButterKnife.bind(this);
+        ButterKnife.bind(this);
     }
 
     public void unBindButterKnife() {
         // 解绑注解
         //ButterKnife.unbind(this);
+        ButterKnife.bind(this).unbind();
     }
 
     /**
