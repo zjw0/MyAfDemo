@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.jakewharton.butterknife'
 
 android {
     compileSdkVersion 26
@@ -39,8 +40,8 @@ dependencies {
     api files('libs/zm-http-volley-1.2.jar')
     api files('libs/zm-imageloader-1.0.jar')
 
-    api "com.jakewharton:butterknife:8.8.1"
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    api "com.jakewharton:butterknife:8.4.0"
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
     //    "butterknife"           : "com.jakewharton:butterknife:8.8.1", //Butterknife:8.8.1
 
 }
