@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zhy:autolayout:1.4.5@aar">
+    <CLASSES>
+      <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/557464fd6231956320207654dc225853/jars/classes.jar!/" />
+      <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/557464fd6231956320207654dc225853/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.CustomActivity">
+
+    <cn.appoa.afdemo.widget.TitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_normal"
+        android:layout_marginTop="@dimen/height_normal"
+        android:layout_alignParentBottom="true"
+        app:leftText="left"
+        app:leftTextColor="@color/colorBlack"
+        app:leftTextSize="@dimen/text_bit"
+        app:rightText="right"
+        app:rightTextColor="@color/colorBlack"
+        app:rightTextSize="@dimen/text_bit"
+        app:title="title"
+        app:titleTextSize="@dimen/text_little"
+        app:titleTextColor="@color/colorBlack" />
+
+<!--    app:leftBackGround="@color/colorBgLighterGray"-->
+<!--    app:rightBackGround="@color/colorBgLighterGray"-->
+<!--    app:titleBackGround="@color/colorBgLighterGray"-->
+
+    <cn.appoa.afdemo.widget.SortView
+        android:id="@+id/sort_view"
+        android:layout_marginTop="@dimen/height_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </cn.appoa.afdemo.widget.SortView>
+
+
+
+
+
+</LinearLayout>

@@ -5,6 +5,7 @@ import android.view.KeyEvent;
 import cn.appoa.afdemo.activity.AbsListActivity;
 import cn.appoa.afdemo.activity.BannerActivity;
 import cn.appoa.afdemo.activity.CommonUtilsActivity;
+import cn.appoa.afdemo.activity.CustomActivity;
 import cn.appoa.afdemo.activity.CustomWidgetActivity;
 import cn.appoa.afdemo.activity.GithubProjectActivity;
 import cn.appoa.afdemo.activity.RefreshBeanActivity;
@@ -48,6 +49,7 @@ public class MainActivity extends AbsListActivity {
                 "WebView的使用",
                 "微信扫一扫",
                 "微信摇一摇",
+                "自定义控件",
         };
     }
 
@@ -66,6 +68,7 @@ public class MainActivity extends AbsListActivity {
                 WebViewActivity.class,
                 ZmQrCodeActivity.class,
                 ZmShakeActivity.class,
+                CustomActivity.class,
         };
     }
 
