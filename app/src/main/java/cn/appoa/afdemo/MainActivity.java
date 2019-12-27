@@ -5,7 +5,7 @@ import android.view.KeyEvent;
 import cn.appoa.afdemo.activity.AbsListActivity;
 import cn.appoa.afdemo.activity.BannerActivity;
 import cn.appoa.afdemo.activity.CommonUtilsActivity;
-import cn.appoa.afdemo.activity.CustomActivity;
+import cn.appoa.afdemo.customview.activity.CustomActivity;
 import cn.appoa.afdemo.activity.CustomWidgetActivity;
 import cn.appoa.afdemo.activity.GithubProjectActivity;
 import cn.appoa.afdemo.activity.RefreshBeanActivity;

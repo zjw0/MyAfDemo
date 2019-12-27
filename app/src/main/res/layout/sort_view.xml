@@ -3,26 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/colorWhite">
-<!--    <Button-->
-<!--        android:id="@+id/btn_left"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_centerVertical="true"-->
-<!--        android:layout_marginLeft="5dp"-->
-<!--        android:text="Back"-->
-<!--        android:textColor="@android:color/white" />-->
-
-<!--    <TextView-->
-<!--        android:id="@+id/title_tv"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_centerInParent="true"-->
-<!--        android:text="Title"-->
-<!--        android:textColor="@android:color/white"-->
-<!--        android:textSize="20sp" />-->
-
-    <View style="@style/HorizontalLine" />
-
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -56,9 +36,7 @@
             <TextView
                 android:id="@+id/tv_sort2"
                 style="@style/SimpleTextView"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentStart="true"
-                android:layout_centerVertical="true"
+                android:layout_centerInParent="true"
                 android:layout_marginLeft="@dimen/height_normal"
                 android:drawableRight="@drawable/price_default"
                 android:text="销量"
@@ -75,13 +53,8 @@
             <TextView
                 android:id="@+id/tv_sort3"
                 style="@style/SimpleTextView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentStart="true"
-                android:layout_centerVertical="true"
-                android:layout_marginLeft="49dp"
-                android:layout_marginStart="49dp"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/height_normal"
                 android:drawableRight="@drawable/price_default"
                 android:text="价格"
                 android:textColor="@color/colorText"/>
@@ -89,7 +62,5 @@
         </RelativeLayout>
 
     </LinearLayout>
-
-    <View style="@style/HorizontalLine" />
 
 </RelativeLayout>
