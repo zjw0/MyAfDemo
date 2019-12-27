@@ -11,179 +11,19 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3a2a6b-4980-44fe-a77c-b3989680bf66" name="Default" comment="增加自定义控件">
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_jakewharton_butterknife_8_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_jakewharton_butterknife_annotations_8_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/price_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/price_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/price_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/price_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/price_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/price_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-06-14-05-45-325.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-06-14-05-45-325.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-06-14-06-34-998.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-06-14-06-34-998.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-18-42-449.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-18-42-449.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-19-12-619.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-19-12-619.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-29-32-007.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-29-32-007.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-30-22-265.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-09-30-22-265.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-00-39-447.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-00-39-447.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-00-58-525.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-00-58-525.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-06-19-883.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-06-19-883.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-08-06-933.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-08-06-933.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-36-39-222.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-36-39-222.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-38-51-301.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-38-51-301.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-41-34-006.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-41-34-006.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-44-32-499.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-44-32-499.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-45-35-225.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-14-45-35-225.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-30-07-115.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-30-07-115.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-30-49-537.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-30-49-537.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-41-07-132.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-41-07-132.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-43-38-202.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-15-43-38-202.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-16-05-15-737.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-16-05-15-737.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-16-05-48-766.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-07-16-05-48-766.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-09-50-35-261.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-09-50-35-261.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-09-51-05-215.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-09-51-05-215.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-10-09-08-698.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-10-09-08-698.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-10-12-35-915.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-09-10-12-35-915.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-18-14-26-35-624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-18-14-26-35-624.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-18-14-28-10-453.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-18-14-28-10-453.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-09-21-33-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-09-21-33-400.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-09-22-09-432.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-09-22-09-432.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-05-13-429.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-05-13-429.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-05-30-121.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-05-30-121.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-40-23-128.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-40-23-128.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-41-07-176.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-41-07-176.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-47-47-927.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-47-47-927.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-55-48-369.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-10-55-48-369.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-04-59-301.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-04-59-301.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-05-53-722.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-05-53-722.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-08-50-077.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-08-50-077.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-53-29-607.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-53-29-607.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-55-26-242.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-55-26-242.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-58-27-559.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-11-58-27-559.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-08-57-033.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-08-57-033.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-13-06-189.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-13-06-189.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-48-02-808.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-12-48-02-808.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-42-44-653.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-42-44-653.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-45-58-541.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-45-58-541.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-47-12-016.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-13-47-12-016.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-07-53-258.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-07-53-258.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-08-43-195.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-08-43-195.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-15-25-472.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-15-25-472.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-15-51-568.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-15-51-568.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-16-51-454.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-16-51-454.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-20-50-378.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-20-50-378.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-22-17-729.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-22-17-729.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-24-19-646.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-24-19-646.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-28-18-574.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-28-18-574.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-30-04-667.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-30-04-667.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-35-16-787.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-35-16-787.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-41-16-059.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-41-16-059.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-46-20-896.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-46-20-896.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-47-31-140.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-47-31-140.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-52-03-464.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-52-03-464.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-54-28-411.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-54-28-411.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-54-47-204.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-14-54-47-204.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-05-57-064.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-05-57-064.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-25-06-798.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-25-06-798.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-27-50-936.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-27-50-936.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-50-48-696.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-15-50-48-696.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-06-08-596.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-06-08-596.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-45-01-745.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-45-01-745.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-45-50-553.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-45-50-553.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-52-36-175.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-52-36-175.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-56-29-802.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-17-56-29-802.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-07-33-851.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-07-33-851.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-09-26-972.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-09-26-972.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-10-54-418.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-10-54-418.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-13-51-075.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-26-18-13-51-075.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-27-09-07-09-628.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2019-12-27-09-07-09-628.rawproto" afterDir="false" />
+    <list default="true" id="1e3a2a6b-4980-44fe-a77c-b3989680bf66" name="Default" comment="增加自定义控件sortView">
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -213,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="316">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -222,12 +62,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+            <state relative-caret-position="275">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1924#2100#0" expanded="true" />
-                <element signature="e#2099#2100#0" expanded="true" />
+                <element signature="e#1365#1644#0" expanded="true" />
+                <element signature="e#1643#1644#0" expanded="true" />
+                <element signature="e#1733#2223#0" expanded="true" />
+                <element signature="e#2222#2223#0" expanded="true" />
+                <element signature="e#2311#2851#0" expanded="true" />
+                <element signature="e#2850#2851#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,11 +80,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1701">
-              <caret line="75" column="39" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="39" />
+            <state relative-caret-position="396">
+              <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="86" column="52" selection-start-line="86" selection-start-column="52" selection-end-line="86" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -295,8 +149,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/TitleBar.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java" />
       </list>
@@ -321,6 +175,11 @@
             <path>
               <item name="MyAfWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyAfWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAfWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAfWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="AFramework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="MyAfWork" type="b2602c69:ProjectViewProjectNode" />
@@ -390,6 +249,14 @@
               <item name="afdemo" type="462c0819:PsiDirectoryNode" />
               <item name="widget" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyAfWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAfWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -404,7 +271,7 @@
     <property name="device.picker.selection" value="YAUNW18713008061" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -761,13 +628,27 @@
       <option name="project" value="LOCAL" />
       <updated>1577355208907</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="增加自定义控件add">
+      <created>1577409098041</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577409098041</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加自定义控件sortView">
+      <created>1577409868052</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577409868052</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19926651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23777506" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -784,10 +665,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Gradle Console" order="7" side_tool="true" weight="0.3290993" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Logcat" order="10" weight="0.328341" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.328341" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3290993" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.328341" />
@@ -865,10 +746,11 @@
     <MESSAGE value="修改ButterKnife版本8.4.0" />
     <MESSAGE value="修改gitignore文件" />
     <MESSAGE value="增加自定义控件" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加自定义控件" />
+    <MESSAGE value="增加自定义控件add" />
+    <MESSAGE value="增加自定义控件sortView" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加自定义控件sortView" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/8.8.1/1de300f9b877d30cea69c2ba84a450549f023ab8/butterknife-8.8.1-sources.jar!/butterknife/Unbinder.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/GithubProjectActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -1051,13 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AFramework/src/main/res/values/af_colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -1146,36 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding>
-            <element signature="e#945#967#0" expanded="true" />
-            <element signature="e#2281#2303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="75" column="39" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -1193,14 +1038,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+        <state relative-caret-position="316">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sort_view.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="86" column="52" selection-start-line="86" selection-start-column="52" selection-end-line="86" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="2917" column="16" selection-start-line="2917" selection-start-column="16" selection-end-line="2917" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/widget/SortView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1924#2100#0" expanded="true" />
-            <element signature="e#2099#2100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cn/appoa/afdemo/activity/CustomActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1365#1644#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1733#2223#0" expanded="true" />
+            <element signature="e#2222#2223#0" expanded="true" />
+            <element signature="e#2311#2851#0" expanded="true" />
+            <element signature="e#2850#2851#0" expanded="true" />
           </folding>
         </state>
       </provider>

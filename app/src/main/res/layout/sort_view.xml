@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:text="综合"
-                android:textColor="@color/colorAccent" />
+                android:textColor="@color/colorText" />
 
         </RelativeLayout>
 
@@ -61,7 +61,8 @@
                 android:layout_centerVertical="true"
                 android:layout_marginLeft="@dimen/height_normal"
                 android:drawableRight="@drawable/price_default"
-                android:text="销量" />
+                android:text="销量"
+                android:textColor="@color/colorText"/>
 
         </RelativeLayout>
 
@@ -82,7 +83,8 @@
                 android:layout_marginLeft="49dp"
                 android:layout_marginStart="49dp"
                 android:drawableRight="@drawable/price_default"
-                android:text="价格" />
+                android:text="价格"
+                android:textColor="@color/colorText"/>
 
         </RelativeLayout>
 

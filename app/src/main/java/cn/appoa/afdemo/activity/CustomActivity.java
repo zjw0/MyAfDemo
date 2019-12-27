@@ -1,6 +1,5 @@
 package cn.appoa.afdemo.activity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -46,27 +45,48 @@ public class CustomActivity extends BaseActivity {
             }
         });
 
+        //自定义排序控件
         mSortView = findViewById(R.id.sort_view);
-        mSortView.setTittle("综合1", 1);
-//        mSortView.setTittle("销量1", 2);
-//        mSortView.setTittle("价格1", 3);
-
         mSortView.setLeftOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AtyUtils.showShort(mActivity, "综合", false);
+                //mSortView.setTitle("综合1", 1);
+                mSortView.setTitleColor(R.color.colorAccent, 1);
+                mSortView.setTitleDrawable(0, 1);
             }
         });
+        final boolean[] isSortMiddle = {false};
         mSortView.setMiddleOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AtyUtils.showShort(mActivity, "销量", false);
+                //mSortView.setTitle("销量1", 2);
+                mSortView.setTitleColor(R.color.colorAccent, 2);
+                if(isSortMiddle[0]){
+                    isSortMiddle[0] = false;
+                    //降序排列
+                    mSortView.setTitleDrawable(2, 2);
+                }else {
+                    isSortMiddle[0] = true;
+                    //升序排列
+                    mSortView.setTitleDrawable(1, 2);
+                }
             }
         });
+        final boolean[] isSortRight = {false};
         mSortView.setRightOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AtyUtils.showShort(mActivity, "价格", false);
+                //mSortView.setTitle("价格1", 3);
+                mSortView.setTitleColor(R.color.colorAccent, 3);
+                if(isSortRight[0]){
+                    isSortRight[0] = false;
+                    //降序排列
+                    mSortView.setTitleDrawable(2, 3);
+                }else {
+                    isSortRight[0] = true;
+                    //升序排列
+                    mSortView.setTitleDrawable(1, 3);
+                }
             }
         });
 
