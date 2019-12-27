@@ -47,7 +47,7 @@ public class CustomActivity extends BaseActivity {
         });
 
         mSortView = findViewById(R.id.sort_view);
-//        mSortView.setTittle("综合1", 1);
+        mSortView.setTittle("综合1", 1);
 //        mSortView.setTittle("销量1", 2);
 //        mSortView.setTittle("价格1", 3);
 

@@ -21,7 +21,7 @@ public class SortView extends FrameLayout implements View.OnClickListener {
     private TextView tv_sort1;
     private TextView tv_sort2;
     private TextView tv_sort3;
-    private int type;
+//    private int type;
 
     public SortView(@NonNull Context context) {
         super(context);
