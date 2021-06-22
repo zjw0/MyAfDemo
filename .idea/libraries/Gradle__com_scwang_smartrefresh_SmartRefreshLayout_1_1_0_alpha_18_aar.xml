@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-18.aar/40081cceea99e3946cbe6f9849f53b9e/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-18.aar/40081cceea99e3946cbe6f9849f53b9e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-18.aar/198fa0ab7f27cd358c3010c6d60538f6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-18.aar/198fa0ab7f27cd358c3010c6d60538f6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-18.aar/198fa0ab7f27cd358c3010c6d60538f6/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

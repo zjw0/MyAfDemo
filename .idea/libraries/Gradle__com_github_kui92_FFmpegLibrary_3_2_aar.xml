@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/b6c48fb344e3d68fe5d4637bab78db73/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/b6c48fb344e3d68fe5d4637bab78db73/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/70655a14715013460996b19e24ca220c/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/70655a14715013460996b19e24ca220c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FFmpegLibrary-3.2.aar/70655a14715013460996b19e24ca220c/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

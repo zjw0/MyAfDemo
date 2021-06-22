@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/1a7d9437de717c981da79cad245edcae/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/1a7d9437de717c981da79cad245edcae/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/89a8033ae2b2a9c829b1c9c354ebe0a5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/89a8033ae2b2a9c829b1c9c354ebe0a5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/89a8033ae2b2a9c829b1c9c354ebe0a5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

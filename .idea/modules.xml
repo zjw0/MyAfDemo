@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AFramework/AFramework.iml" filepath="$PROJECT_DIR$/AFramework/AFramework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AndroidImageCropper/AndroidImageCropper.iml" filepath="$PROJECT_DIR$/AndroidImageCropper/AndroidImageCropper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JiaoZiVideoPlayer/JiaoZiVideoPlayer.iml" filepath="$PROJECT_DIR$/JiaoZiVideoPlayer/JiaoZiVideoPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAfWork.iml" filepath="$PROJECT_DIR$/MyAfWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QrCodeScan/QrCodeScan.iml" filepath="$PROJECT_DIR$/QrCodeScan/QrCodeScan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SmartRefreshLayoutFragment/SmartRefreshLayoutFragment.iml" filepath="$PROJECT_DIR$/SmartRefreshLayoutFragment/SmartRefreshLayoutFragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WxCameraView/WxCameraView.iml" filepath="$PROJECT_DIR$/WxCameraView/WxCameraView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WxImageSelector/WxImageSelector.iml" filepath="$PROJECT_DIR$/WxImageSelector/WxImageSelector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WxVoiceSelector/WxVoiceSelector.iml" filepath="$PROJECT_DIR$/WxVoiceSelector/WxVoiceSelector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AFramework/MyAfWork.AFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/AFramework/MyAfWork.AFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidImageCropper/MyAfWork.AndroidImageCropper.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidImageCropper/MyAfWork.AndroidImageCropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JiaoZiVideoPlayer/MyAfWork.JiaoZiVideoPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/JiaoZiVideoPlayer/MyAfWork.JiaoZiVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QrCodeScan/MyAfWork.QrCodeScan.iml" filepath="$PROJECT_DIR$/.idea/modules/QrCodeScan/MyAfWork.QrCodeScan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmartRefreshLayoutFragment/MyAfWork.SmartRefreshLayoutFragment.iml" filepath="$PROJECT_DIR$/.idea/modules/SmartRefreshLayoutFragment/MyAfWork.SmartRefreshLayoutFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WxCameraView/MyAfWork.WxCameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/WxCameraView/MyAfWork.WxCameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WxImageSelector/MyAfWork.WxImageSelector.iml" filepath="$PROJECT_DIR$/.idea/modules/WxImageSelector/MyAfWork.WxImageSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WxVoiceSelector/MyAfWork.WxVoiceSelector.iml" filepath="$PROJECT_DIR$/.idea/modules/WxVoiceSelector/MyAfWork.WxVoiceSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyAfWork.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyAfWork.app.iml" />
     </modules>
   </component>
 </project>

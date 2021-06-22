@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/c5b3f19c5f065202fc4ba181713ded13/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/c5b3f19c5f065202fc4ba181713ded13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/e5c5f8bcb575d43df6d290936bba90bc/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/e5c5f8bcb575d43df6d290936bba90bc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/e5c5f8bcb575d43df6d290936bba90bc/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

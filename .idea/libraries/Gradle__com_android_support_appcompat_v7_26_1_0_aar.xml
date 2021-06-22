@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/62e7a337c450582226aaa1db9b7d150e/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/62e7a337c450582226aaa1db9b7d150e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d382d60fa374b9d6f7bd7fd85ebfb9e7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d382d60fa374b9d6f7bd7fd85ebfb9e7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d382d60fa374b9d6f7bd7fd85ebfb9e7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

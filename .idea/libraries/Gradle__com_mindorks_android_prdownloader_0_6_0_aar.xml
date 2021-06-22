@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/prdownloader-0.6.0.aar/55f7179651c8dbe75a4a09cfa5f52517/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/prdownloader-0.6.0.aar/55f7179651c8dbe75a4a09cfa5f52517/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/prdownloader-0.6.0.aar/1d3edc227ebc89655ce70a05dae460f3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/prdownloader-0.6.0.aar/1d3edc227ebc89655ce70a05dae460f3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/prdownloader-0.6.0.aar/1d3edc227ebc89655ce70a05dae460f3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

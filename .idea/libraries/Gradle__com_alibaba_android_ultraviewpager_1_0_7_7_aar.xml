@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/ultraviewpager-1.0.7.7.aar/92489a1240f19f47104befab5f291a1d/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/ultraviewpager-1.0.7.7.aar/92489a1240f19f47104befab5f291a1d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ultraviewpager-1.0.7.7.aar/0f34d5aa5c4d8d5c3b5ba7574b6c3d1c/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ultraviewpager-1.0.7.7.aar/0f34d5aa5c4d8d5c3b5ba7574b6c3d1c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ultraviewpager-1.0.7.7.aar/0f34d5aa5c4d8d5c3b5ba7574b6c3d1c/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

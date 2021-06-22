@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/557464fd6231956320207654dc225853/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/557464fd6231956320207654dc225853/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/0010b02eb4d58c1e2d8c021d07b24025/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/0010b02eb4d58c1e2d8c021d07b24025/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/autolayout-1.4.5.aar/0010b02eb4d58c1e2d8c021d07b24025/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

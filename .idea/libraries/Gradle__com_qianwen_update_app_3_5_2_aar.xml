@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/update-app-3.5.2.aar/ec65104d3458b0b9fd63866301d935bc/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/update-app-3.5.2.aar/ec65104d3458b0b9fd63866301d935bc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/update-app-3.5.2.aar/7089968c281b0272feb0e0aeb65c47c3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/update-app-3.5.2.aar/7089968c281b0272feb0e0aeb65c47c3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/update-app-3.5.2.aar/7089968c281b0272feb0e0aeb65c47c3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

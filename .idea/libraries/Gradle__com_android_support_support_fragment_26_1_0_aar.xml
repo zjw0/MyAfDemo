@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://F:/Android/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/95ba07602700ece4fe9ae92f8e75eeba/jars/classes.jar!/" />
       <root url="file://F:/Android/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/95ba07602700ece4fe9ae92f8e75eeba/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cea8958381cffeff917775706ee2587b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cea8958381cffeff917775706ee2587b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cea8958381cffeff917775706ee2587b/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
